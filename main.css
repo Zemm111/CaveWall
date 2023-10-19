@@ -3,11 +3,11 @@ html, body {
     padding: 0;
     width: 100%;
     height: 100%;
-    overflow: hidden; /* This ensures no scrollbars */
+   /*  overflow: hidden; This ensures no scrollbars */
 }
 
 #shaderCanvas {
-    position: absolute;
+    position: fixed;
     top: 0;
     left: 0;
     width: 100%;
