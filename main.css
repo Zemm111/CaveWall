@@ -14,3 +14,23 @@ html, body {
     height: 100%;
     z-index: -1; /* This places the canvas behind other content */
 }
+.sticky-div {
+            background-color: white;
+            position: sticky;
+            top: 10px;
+            padding: 10px 0px;
+            width:150px;
+        }
+         
+.start {
+            height: 100px;
+        }
+         
+.end {
+         height: 4000px;
+        }
+.content-div {
+            width:66%;
+            background-color:white;
+            padding-left:10px;
+        }
