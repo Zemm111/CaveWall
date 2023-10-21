@@ -1,0 +1,52 @@
+<html>
+<head>
+	<title = "Cave Wall"></title>
+    <link rel="stylesheet" type="text/css" href="main.css">
+</head>
+<body>
+
+
+<div class="sticky-div"> 
+Mint on Zora (Soon)<br>
+View on OpenSea (Soon)
+</div>
+<center>
+<div class="header-div">
+<br><h1>21 DAO Themes
+<br>Artist: Zemm
+<br>700 NFTs
+</div>
+<div class="content-div">
+<br><br>
+<br><img src="images/21DT_102.jpg" width="33%">
+<br> <br>Mint on Zora Here (soon). </br></h1>
+<br><br><p style="text-align:left;">
+1. emergence<br/><br>21 DAO Themes seeks to catalog new monads and propose imagistic fundaments. There are 23 unique themes in this series, terms related to contemporary degen and dao existence.  Each Theme is offered to the viewer similarly to a renaissance emblem. Through the themes we may imagine ourselves as conversant with our current place upon the arch to the future, as DAOists of many diverse kinds of involvement, from builders to delegates to shitposters. Vocations and transmutations of self are unwound by the 21 Themes, distended from the mundane and memorial, but cannot be described without it.<br><br>
+2. A pantheon or map<br/><br> In the case of 21 DAO Themes, we have experimented with a format that is rather like a cosmology, involving equilibria of opposing activities (Exit, Entrance, Discord, Partnership) and forming a web of possible agentic principles.  Wrapping this are extensions into the henadic plane, including daemonic / angelic forms (Moloch, Abraxas) which guide broader movements and potentials, and finally a collection of rare  teleological beacons (Keks) that operate in the memetic container.  These forms can be considered psychogeographically, like statues of the golden city of Golgonooza or lore items from any built-world of sufficient complexity.<br><br>
+3. Poem, poster, oracle<br/><br>Extending from this exercise in taxonomy is the goal that each mint of the Themes might become a unique statement.  In the creation of the collection, each NFT contains a braiding of two Themes together, used perhaps for inspiration and conversation.  Each NFT has a pairing of two themes, allowing Dionysian interiors to overlap and evoke novel positions in what amounts to the experiential, rather than the formal, sphere.  When you receive a 21 DAO Themes instance, you are in conversation with the woven voice of thematic elements, a superposition between allegory and glossolalia.  Each pairing might be just as easily a poem to enjoy, an inspirational poster for those invested in the coming arraignment of human and digital matter, and an oracle card by which one might interpret their time at large.</p><br/><br/>Zemm * Naph<br/>Curator in Chief<br/>Cavewall.nexus<br/>
+<br><br>
+Examples
+<br><br>
+<a href= "images/21DT_1.jpg"><img src="images/21DT_1.jpg" width="33%"></a>
+<br><br>
+<a href= "images/21DT_7.jpg"><img src="images/21DT_7.jpg" width="33%"></a>
+<br><br>
+<a href= "images/21DT_25.jpg"><img src="images/21DT_25.jpg" width="33%"></a>
+<br><br>
+<a href= "images/21DT_30.jpg"><img src="images/21DT_30.jpg" width="33%"></a>
+<br><br>
+<a href= "images/21DT_40.jpg"><img src="images/21DT_40.jpg" width="33%"></a>
+<br><br>
+<a href= "images/21DT_44.jpg"><img src="images/21DT_44.jpg" width="33%"></a>
+<br><br>
+<a href= "images/21DT_64.jpg"><img src="images/21DT_64.jpg" width="33%"></a>
+<br><br>
+</div>
+<br></br>
+</center>
+    <canvas id="shaderCanvas"></canvas>
+    <script src="main.js"></script>
+    <canvas id="disp" width="900" height="900"></canvas>
+    <script src="main.js" type="module"></script>
+</body>
+</html>

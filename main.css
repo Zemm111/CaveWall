@@ -6,6 +6,12 @@ html, body {
    /*  overflow: hidden; This ensures no scrollbars */
 }
 
+h1 {
+
+    color:wite;
+
+}
+
 #shaderCanvas {
     position: fixed;
     top: 0;
@@ -14,9 +20,12 @@ html, body {
     height: 100%;
     z-index: -1; /* This places the canvas behind other content */
 }
+
+/* Exhibition Pages */
+
 .sticky-div {
             background-color: white;
-            position: sticky;
+            position: fixed;
             top: 10px;
             padding: 10px 0px;
             width:150px;
@@ -30,7 +39,19 @@ html, body {
          height: 4000px;
         }
 .content-div {
-            width:66%;
+/*          width:66%;
             background-color:white;
-            padding-left:10px;
+            padding-left:10px;*/
+            width:66%;
+            padding-left: 10px;
+            padding-right:30px;
+            color:black;
+            background-color: white;
+            top:100px;
         }
+.header-div {
+    padding-left: 10px;
+    color:black;
+    font-size: 11px;
+    background-color: white;
+}
