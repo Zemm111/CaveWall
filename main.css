@@ -3,12 +3,15 @@ html, body {
     padding: 0;
     width: 100%;
     height: 100%;
+   /*   font-family: helvetica;*/
+
    /*  overflow: hidden; This ensures no scrollbars */
 }
 
 h1 {
 
     color:wite;
+    font:garamond;
 
 }
 
@@ -29,6 +32,8 @@ h1 {
             top: 10px;
             padding: 10px 0px;
             width:150px;
+            vertical-align: middle;
+            align-items:center;
         }
          
 .start {
@@ -46,7 +51,7 @@ h1 {
             padding-left: 10px;
             padding-right:30px;
             color:black;
-            background-color: white;
+            background-color:  rgba(255,255,255,1);
             top:100px;
         }
 .header-div {
@@ -54,4 +59,6 @@ h1 {
     color:black;
     font-size: 11px;
     background-color: white;
+    padding-bottom: 15px;
+    background-color:  rgba(255,255,255,1);
 }
