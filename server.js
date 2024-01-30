@@ -8,7 +8,7 @@ const port = 3000; // Choose a port of your preference
 app.use(bodyParser.json());
 
 // Endpoint to handle Warpcast POST requests
-app.post('/frame', (req, res) => {
+app.post('/frame.html', (req, res) => {
     // Extract data from the request
     const buttonId = req.body.buttonId;
     const userId = req.body.userId;
